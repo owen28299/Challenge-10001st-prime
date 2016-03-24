@@ -1,0 +1,23 @@
+{
+  "name": "challenge-10001st-prime",
+  "version": "1.0.0",
+  "description": "Challenge 7 ===========",
+  "main": "challenge_7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owen28299/Challenge-10001st-prime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owen28299/Challenge-10001st-prime/issues"
+  },
+  "homepage": "https://github.com/owen28299/Challenge-10001st-prime#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
